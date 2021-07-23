@@ -1,0 +1,9 @@
+version: "3.3"
+
+services:
+  mediapipe-paint:
+    image: paint-to-webcam
+    devices:
+      - /dev/video2
+      - /dev/video4
+    command: ["python", "./app/paint_to_webcam.py", "2", "4"]
