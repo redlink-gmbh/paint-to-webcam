@@ -1,3 +1,6 @@
+# Intro
+In july 2019 Google released mediapipe, a cross-platform, customizable ML solution for live and streaming media. In this project the mediapipe hands module is utilized to create a simple tool for painting to the webcam with the fingers by moving the hand in the front of the camera. It also has the ability to delete the painting in the rubber mode. This code is not aimed to be production ready, but is created to show up the abilities and also problems that arise while using the mediapipe framework.
+
 # Quick Start Guide
 ##  1. Create a Virtual Camera
 
