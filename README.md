@@ -55,5 +55,6 @@ Best use docker. Otherwise:
 7. Choose camera in teams (or any other app) or run `ffplay /dev/video4`
 
 ## links
+- Blogpost: https://www.redlink.at/paint-to-webcam-hand-detection-mit-mediapipe/
 - https://google.github.io/mediapipe/
 - https://dannadori.medium.com/how-to-edit-the-image-stream-for-video-chat-teams-zoom-3acb58669f26
